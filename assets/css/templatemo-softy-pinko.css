@@ -1180,7 +1180,7 @@ team
 }
 
 .team-item .team-content p {
-  margin-top: 25px;
+  margin-top: 50px;
   padding-left: 25px;
   padding-right: 25px;
   margin-bottom: 25px;
@@ -1189,6 +1189,7 @@ team
   color: #777;
   letter-spacing: 0.6px;
   line-height: 26px;
+  text-align: center;
 }
 
 /* 
